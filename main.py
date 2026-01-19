@@ -10,11 +10,11 @@ MODEL_NAME = "llama3.2:3b"
 
 
 DB_CONFIG = {
-    "user": "postgres",
+    "user": "nikhil",
     "password": "Nikhil@0987",
-    "host": "localhost",
+    "host": "13.50.224.153",
     "port": "5432",
-    "dbname": "complykaro"
+    "dbname": "complyk"
 }
 
 
